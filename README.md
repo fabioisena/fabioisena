@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabioisena - Production Engineer
 - 👀 I’m interested in ... carrer transition & continuous improvement 
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... CSS | HTML | JavaScript
 - 💞️ I’m looking to collaborate on ... VBA Excel
 - 📫 How to reach me ... fabioisena@gmail.com 
 
